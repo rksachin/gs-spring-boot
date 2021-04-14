@@ -8,6 +8,6 @@ public class HelloController {
     
     @RequestMapping("/")
     public String index() {
-        return "Hello application from Spring Boot!";
+        return "Hello Application from Spring Boot!";
     }   
 }
